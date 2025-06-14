@@ -138,3 +138,4 @@
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/exams/exam-3/Webapi/obj/Debug/net9.0/WebApi.pdb
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/exams/exam-3/Webapi/obj/Debug/net9.0/WebApi.genruntimeconfig.cache
 /Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/exams/exam-3/Webapi/obj/Debug/net9.0/ref/WebApi.dll
+/Users/nozimjonqozievgmail.com/Desktop/DotNet/EF Core/exams/exam-3/Webapi/obj/Debug/net9.0/WebApi.sourcelink.json

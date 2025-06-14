@@ -6,6 +6,9 @@ public class Product
 {
     [Key]
     public int Id { get; set; }
+    [Required]
+    [MaxLength(50, ErrorMessage = "Name cannot exceed 50 characters")]
+    [MinLength(2, ErrorMessage = "Name must be at least 2 characters")]
     public string Name { get; set; }
     public decimal Price { get; set; }
     public int QuantityInStock { get; set; }
